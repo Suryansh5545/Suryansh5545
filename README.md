@@ -23,3 +23,8 @@ I also have a successfull side hussle called Bruhhost.com a Game Server providin
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Suryansh5545&theme=dracula)](https://github.com/Suryansh5545/github-readme-stats)
 
 ![Suryansh5545 github stats](https://github-readme-stats.vercel.app/api?username=Suryansh5545&theme=dracula&count_private=true)
+
+To say Hello There to me:
+<html>
+<a href=”https://www.linkedin.com/in/suryansh-pathak-5058051b2/">LinkedIn</a>
+</html>
