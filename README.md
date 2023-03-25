@@ -26,5 +26,5 @@ I also have a successfull side hussle called Bruhhost.com a Game Server providin
 
 To say Hello There to me:
 <html>
-<a href="https://www.linkedin.com/in/suryansh-pathak-5058051b2/" target="_blank">LinkedIn</a> 
+<a href="https://www.linkedin.com/in/Suryansh5545/" target="_blank">LinkedIn</a> 
 </html>
