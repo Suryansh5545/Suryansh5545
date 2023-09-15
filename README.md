@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 A RTS Gamer with liking for Star War
 
-I am a 2nd year student at JKLU Jaipur,  currently pursuing BTech CSE.
+I am a 3nd year student at JKLU Jaipur,  currently pursuing BTech CSE.
 Technologies i like to play around Docker, React, Angular.
 I also have a successfull side hussle called Bruhhost.com a Game Server providing company.
 
