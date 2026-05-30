@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A RTS Gamer with liking for Star War
-
-I am a 3rd year student at JKLU Jaipur,  currently pursuing BTech CSE.
-Technologies i like to play around Docker, React, Angular.
-I also have a successfull side hussle called Bruhhost.com a Game Server providing company.
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Suryansh5545&theme=dracula)](https://github.com/Suryansh5545/github-readme-stats)
 
